@@ -31,7 +31,7 @@ double Point::getY(){
     return y;
 }
 void Point::setX(double x){
-    this->x=x;
+    x=x;
 }
 void Point::setY(double y){
     this->y=y;
